@@ -1,0 +1,101 @@
+appointment_id,patient_id,appointment_type,appointment_date,status,provider_id,provider_name,hackathon_team
+08a86c24-4f8c-4727-972f-b4536b9bb11c,6a0e666f-918a-4a60-a1e2-1cefbe7e4052,Pediatrics,2024-05-04 12:45:38,Attended,67e561c5-3631-453d-bdc3-f3363a9ac8fe,Christina Davenport,Team 1
+c9699c21-5817-4f8b-b5c8-5fbdc57719c4,d6f79dea-f2e6-41cb-9405-bdf2e3d4d31c,Cardiology,2023-12-29 10:02:52,Attended,f2da07db-8b89-4fba-a160-2f2df5821413,Angela Jackson,Team 3
+b97dcab0-e27b-4ef7-ae05-e42d757d7114,c62213a6-94f5-4c3b-8201-9a1bc89a634b,Cardiology,2024-01-26 22:10:23,Scheduled,6aa8dad3-e4c5-43cf-a2d1-6429c746c1a6,Mercedes Johnson,Team 1
+9c2ef7f3-035f-4444-82a9-f16396deee0b,d3c1f321-665d-4c03-baf1-9c6e45b385d0,Pediatrics,2024-05-04 22:00:16,Scheduled,7f4a22e7-21ca-4748-bc1c-d982fa114594,Sarah Carter,Team 5
+4c473cce-9717-4e30-b02a-43ee7ce8f853,3e1267c9-6906-4b8b-88b9-00bde821a56b,Psychiatry,2024-04-27 03:59:21,Cancelled,528890d2-5f45-468d-b373-4df564e9fc77,Nathan Burke,Team 5
+358b83bd-4765-40e0-8a80-8c6563e27f96,1c4052f3-909d-40c6-bcfb-ea99c408a377,Pediatrics,2023-06-12 09:32:08,Attended,03b4292c-45cc-4afd-b18b-eb40bfc4a835,Cynthia Vazquez,Team 4
+971e9017-0b7f-45dd-a9d1-4e96010445b3,6a0e666f-918a-4a60-a1e2-1cefbe7e4052,Cardiology,2023-06-23 21:39:17,Attended,ee03e05b-6523-4b45-a7bc-e6a1eb29f0e5,Johnny Ibarra,Team 3
+c04809fd-9261-4f47-8f16-a668a3ff3233,b7fb6157-375e-4e5d-986f-4424ba9b6c84,Neurology,2023-11-14 05:38:11,Cancelled,40e17078-f3c5-4390-a44b-081132367612,Casey Grant,Team 3
+443eeeda-0d5f-4ebd-8873-627c0bc529d0,b0a6ab1d-03ce-4f95-8faa-362e1c8db920,Pediatrics,2023-09-20 12:59:43,Cancelled,ed9227c3-c457-4dad-905a-c6dbb2064cd7,James Reid,Team 2
+14731c03-a125-4cbc-961a-e969d130cccc,142e4816-dd2e-4495-a822-13f675d01fb8,Psychiatry,2023-11-10 17:11:29,Scheduled,4b7f855a-7576-49b4-80ed-2763609675fe,Kayla Rasmussen,Team 3
+51e045da-e39b-425f-9d68-2285b47e472c,b22ad909-cf86-444c-8709-2277da324a90,Geriatrics,2023-08-09 17:14:52,Scheduled,5f8facb5-8f36-476f-b097-18c9e57b7d2b,Gary Garcia,Team 3
+c240f700-6cf0-411c-a3e2-a80c5a53a250,dd74cc4e-e5dd-4a62-8e93-9cc24f5a5410,Psychiatry,2023-08-27 18:19:08,Scheduled,4d01d854-59e5-4747-b0a1-ff3a56f0b32e,Jill Guzman,Team 4
+c8347e79-d715-4ba9-bff6-9e1a5339588e,9cc95a62-2483-4874-acfc-1d4b74969cf4,Cardiology,2023-06-18 09:43:58,Attended,95cbb01b-8089-4c13-b9ec-4135d902cef7,Deanna Evans,Team 1
+e6ac8715-051a-4821-ac1e-5765762c746d,065ad9c9-1dd1-497d-88b9-580f08ee9133,Cardiology,2023-06-23 07:00:52,Scheduled,faf11c25-d144-40e4-a648-c6f6fae13212,Tiffany Mathews,Team 5
+59fb3fdb-30a4-48c0-847c-a413f0c670f3,fce71ae7-f15c-4066-a6dc-24e31cc1962e,Cardiology,2024-03-28 00:48:19,Cancelled,1b3c4f31-ca8c-47a5-976c-23846373b4da,Andrew Cooper,Team 2
+9586faee-8bbf-40bb-b012-bcac9a667352,b22ad909-cf86-444c-8709-2277da324a90,Geriatrics,2023-06-15 01:46:04,Attended,d4c743dc-c74c-4b00-956c-ff0966b5a18e,William Erickson,Team 3
+3870fc25-11a1-4a27-8a4c-ad45981b4114,15ea2941-37d5-47b9-9488-d67ddb96d761,Pediatrics,2023-12-08 11:04:59,Scheduled,0df3897f-52b2-41ea-8ccb-a8b1ed4e9da3,Amanda Sullivan,Team 1
+9c1ba10f-90dd-43f9-aa0f-9d80a83b9d91,d3c1f321-665d-4c03-baf1-9c6e45b385d0,Cardiology,2023-10-28 07:26:11,Attended,e5d5be4e-6366-4273-8c4b-2b69a44013e7,Dylan Robinson,Team 1
+166a6fae-d85d-4036-b36c-852476052bab,5de11c53-121a-45fb-a9a6-51d18455298b,Neurology,2023-12-08 02:15:49,Scheduled,eb05c18c-414a-4e9d-a741-f586b1befe57,Tyler Johnson,Team 4
+d41ca1ba-3462-4d39-83dc-69896ddd62ba,dd74cc4e-e5dd-4a62-8e93-9cc24f5a5410,Primary Care,2023-08-07 10:06:48,Attended,017cf9d3-99a5-4e64-b167-54e295ffe375,Jeffery Cook,Team 3
+0ce194e9-6873-41cd-b1ca-dd89e961f320,0704a0d4-9dcb-4813-8006-4fe9c889d174,Psychiatry,2023-08-14 22:12:30,Attended,4d01d854-59e5-4747-b0a1-ff3a56f0b32e,Jill Guzman,Team 4
+3a2dd012-6474-4c76-941e-4e495e6f7155,ab72640d-bd7e-48da-8cc2-44a98440e540,Cardiology,2024-04-09 23:27:44,Attended,e5d5be4e-6366-4273-8c4b-2b69a44013e7,Dylan Robinson,Team 2
+8c8dace8-f061-4420-8396-70b193df1f94,82c150db-5e6f-4519-bf25-db71b02328ac,Neurology,2024-01-18 03:17:56,Cancelled,715fcc5a-a7c7-45f5-a80e-b376b1c8cddf,Amanda Barry,Team 4
+7f0428ae-e63d-4c42-9ba4-9073d4da6c93,4ab519bc-344f-4ddf-817b-c30a6f6ddb99,Cardiology,2024-05-03 16:57:12,Attended,1338191b-efcb-4ad5-b357-9049d9dbdc79,Maria Odonnell,Team 4
+85dba82d-ef92-4c21-bd6c-8c970723533d,222604b1-ecff-46b8-a0f7-0fc3e93067f5,Pediatrics,2023-12-26 21:08:47,Cancelled,82d52ffd-3485-4d11-965f-a7e70891c06d,Nathaniel Barnes,Team 4
+3757907e-9967-40d3-8457-9725f929211c,bbed43e9-0d6a-4973-9bb4-f6bfef84b80f,Psychiatry,2024-01-30 11:59:07,Attended,7aaa3905-bb2f-4865-a14c-62ede6368bb2,Rhonda Austin,Team 5
+dfcf1058-7825-4676-9e2e-89d7fcb36d50,15ea2941-37d5-47b9-9488-d67ddb96d761,Geriatrics,2023-06-10 15:11:11,Scheduled,9849a285-b5d9-4adf-94a8-7c86ec870f86,Cole Griffith,Team 5
+5c2bca1b-b144-4300-acf1-1da810e19023,9e8673b0-5013-4d56-92b2-54ae05803093,Primary Care,2024-03-15 11:21:39,Attended,3b08b418-1e9f-47a2-80f8-fcfb5900f3e3,Joshua Galvan,Team 2
+f7470db4-a397-4f0d-aeba-36761dce26a0,a8a66231-e145-49e2-bc2d-941e55f6299f,Neurology,2023-05-25 23:44:09,Cancelled,04794f54-3f1c-48ce-8e66-1b4f06d9f3d6,Curtis Smith,Team 2
+354bdfac-ae51-4944-8909-52f6267ada2c,7ee50a9a-816b-40bb-8c56-47010a011427,Pediatrics,2023-07-26 04:11:05,Attended,8ef6b85c-28ab-49be-88f5-7b9bc15fa623,Rebecca Chen,Team 2
+c92a3e09-147b-4ae0-8222-5a8bbab29cbb,a0b31f71-624e-4d61-a851-57cc83b774fd,Primary Care,2024-05-07 06:39:55,Cancelled,c170d01b-fbe6-4d8e-bc3d-95f8afaa8bc1,Tiffany Edwards,Team 4
+a8e89439-5880-4696-8704-fd141a5f1d7e,086ed19d-d7e4-43d3-bba3-792598be3543,Geriatrics,2024-02-20 22:24:34,Cancelled,f17ac138-0c37-429d-bbe7-1b24930e8c37,Tamara Kennedy,Team 4
+2bca883d-e276-439f-925c-b8a15d4494ec,21309b4f-98e0-41b9-aff9-9298388d81e0,Primary Care,2023-10-20 19:06:59,Attended,8ef6b85c-28ab-49be-88f5-7b9bc15fa623,Rebecca Chen,Team 3
+2c503d4b-7a69-4f65-b96b-b4e441d3a003,d6f79dea-f2e6-41cb-9405-bdf2e3d4d31c,Neurology,2023-11-10 18:20:32,Scheduled,6746ecc3-3e94-441f-980c-59457e3052ad,Patrick Boyle,Team 2
+8e800c41-6e0f-4c2b-aa4c-f8dead8172a6,7ee50a9a-816b-40bb-8c56-47010a011427,Primary Care,2023-10-11 16:10:31,Cancelled,0bd1f986-aef6-4f5c-9fef-efdab6fc26d4,Colleen Taylor,Team 1
+e55fcc7b-3fc1-47e0-b3f8-8ea81fbc7435,90fe36cf-41fb-4d2d-8f3f-4aa2602ef69b,Cardiology,2024-04-10 17:10:15,Cancelled,56fa073f-c4ef-471d-a3b9-211367da8f83,Jennifer Golden,Team 5
+2a54fdfd-e1bd-47e4-83fc-18a15fca6c87,71076baa-14d2-4242-adb7-525c924e2104,Neurology,2024-03-24 02:10:04,Attended,f447c167-e9af-4230-a4e2-150e63451f7d,Jennifer Lin,Team 1
+497668ae-ba1d-4892-a33d-4ccb1719eec3,b04c9a2d-e0dd-4434-9da8-384a79ae3cb2,Psychiatry,2024-03-13 08:59:06,Scheduled,b1b5b537-101f-4862-b28d-bf3bda83da63,Michelle Guerra,Team 2
+4d04f93a-30c4-4128-82c6-076e331628cc,dd74cc4e-e5dd-4a62-8e93-9cc24f5a5410,Primary Care,2023-10-20 17:58:02,Attended,a02a2ba1-d262-4956-85d9-64270342e17c,Chelsea Walton,Team 2
+83dde4e1-ad1d-4916-9c11-94e2874bc1b8,06548cd5-d6e9-44cb-8781-10aec7ebab9b,Psychiatry,2024-01-19 17:36:17,Attended,67e561c5-3631-453d-bdc3-f3363a9ac8fe,Christina Davenport,Team 1
+d95ff44d-58ff-40be-8e5c-a8401b6b0866,065ad9c9-1dd1-497d-88b9-580f08ee9133,Cardiology,2023-05-16 02:59:19,Attended,67e561c5-3631-453d-bdc3-f3363a9ac8fe,Christina Davenport,Team 2
+e259fa3d-3d4b-4c48-8586-9a546212f6d3,22a21d3a-3249-4a27-854a-400b658a19a7,Cardiology,2024-01-31 14:01:41,Cancelled,05e81bb0-5d38-490c-ac2d-7d51900b63f1,James Rose,Team 3
+7d27c890-4210-4c52-b173-6b5b9d960349,488027c7-d90d-49c4-a66b-fe77cf538c79,Cardiology,2023-08-08 17:29:52,Scheduled,fa67720c-a0a1-4754-8cd3-5114ab568898,Benjamin Andrews,Team 1
+0bb2e18c-d5ec-4fac-abd5-6acca7987cd6,6a0e666f-918a-4a60-a1e2-1cefbe7e4052,Pediatrics,2024-01-14 11:56:25,Cancelled,16816388-1f9c-4c31-a852-090c3cdffb53,Logan Schmidt,Team 4
+7b130442-bede-47a2-8f9e-162849cfbd1e,512915b4-6cbf-4188-94d4-0061e2d07251,Psychiatry,2023-10-17 01:09:40,Scheduled,604b0318-6c75-4204-91c6-892c0b651a71,Melissa Price,Team 2
+d06ffbc4-1a7c-4444-8ce8-b72e6b371230,bbed43e9-0d6a-4973-9bb4-f6bfef84b80f,Psychiatry,2024-01-06 01:44:41,Scheduled,d0bc7f40-ffff-4ae5-bf26-9e0f0763a1b7,Victoria Rivera,Team 3
+278dd6cf-0092-4edd-84cd-87a1dc25ca68,cedc93b3-235c-4a75-ba17-8db2da7d1e62,Oncology,2024-04-15 22:20:27,Cancelled,ee03e05b-6523-4b45-a7bc-e6a1eb29f0e5,Johnny Ibarra,Team 3
+0b14008b-b26b-44f9-93a6-87945c47fcf5,78bb26fc-92eb-4a96-8057-1165b74ca3af,Neurology,2023-07-23 16:08:22,Cancelled,baf81cbb-704c-42ff-9b71-b2596aaf0168,Gina Ayers,Team 5
+71bf39fe-8792-432d-8e2d-4787346273d4,bb3ce4a4-92f7-4dc0-83b7-8628b37e2b10,Cardiology,2024-04-08 12:47:58,Scheduled,e0273135-8a3a-4a9d-8016-1a8b5e7793c7,Edward Wilson,Team 5
+5e5522e6-8c99-452a-b585-83596cc161b9,ab72640d-bd7e-48da-8cc2-44a98440e540,Neurology,2023-07-07 17:50:06,Scheduled,a7b2ea46-f230-484b-b9a7-b39b235ee43f,Bryan Miller,Team 2
+664b417b-c929-4100-b0cf-48b2fc4fe02c,b04c9a2d-e0dd-4434-9da8-384a79ae3cb2,Psychiatry,2023-07-02 21:04:01,Attended,95cbb01b-8089-4c13-b9ec-4135d902cef7,Deanna Evans,Team 5
+7e9d1ab0-7c47-4c5c-ab3b-21875bb51d5f,c62213a6-94f5-4c3b-8201-9a1bc89a634b,Pediatrics,2023-09-10 09:13:53,Cancelled,22bd01cb-70e2-4ac0-bb4f-6e89f8a7a521,Connie Douglas,Team 3
+7565b2b8-da0f-44bf-8504-9df67998135e,5de11c53-121a-45fb-a9a6-51d18455298b,Geriatrics,2024-04-28 09:00:27,Cancelled,d7e3469f-11e0-4e77-86af-00c676d96b30,Andrew Perez,Team 2
+512fbe10-8d36-48a1-9760-38416b78499f,15ea2941-37d5-47b9-9488-d67ddb96d761,Geriatrics,2024-02-03 20:33:34,Scheduled,c170d01b-fbe6-4d8e-bc3d-95f8afaa8bc1,Tiffany Edwards,Team 3
+5d830ec6-d2ce-43a7-a5ad-478fc613c9cd,065ad9c9-1dd1-497d-88b9-580f08ee9133,Cardiology,2024-05-01 08:22:32,Scheduled,5bb281a8-6b29-4594-841c-b936acff1d66,Shannon Lee,Team 3
+089e3d0d-818d-43a6-a6c4-ec4eae1f505a,142e4816-dd2e-4495-a822-13f675d01fb8,Primary Care,2024-04-03 03:39:20,Cancelled,6aa8dad3-e4c5-43cf-a2d1-6429c746c1a6,Mercedes Johnson,Team 2
+580bc7e1-58ef-4460-b2e8-f8f1981b1ad0,488027c7-d90d-49c4-a66b-fe77cf538c79,Cardiology,2024-01-16 03:05:55,Attended,221cd7f9-487e-452a-93fe-51e89e5ebfa0,George Brown,Team 4
+3d15e66b-44c9-41b5-878e-17a6e8f76757,9fb54f01-2dbc-488f-a736-0c223f2f3e6b,Cardiology,2023-11-13 13:28:08,Scheduled,aa1a1e51-750c-4ace-9c88-9a925193f8c2,Daniel Williams,Team 2
+e2aa0f3a-e846-400c-9c99-da6649c6767b,dd74cc4e-e5dd-4a62-8e93-9cc24f5a5410,Pediatrics,2023-05-17 06:02:12,Scheduled,9849a285-b5d9-4adf-94a8-7c86ec870f86,Cole Griffith,Team 2
+77d0047b-3882-46b7-831b-10b7fcf231a9,2c715dc1-8b83-4344-a37b-dcf538ce9763,Geriatrics,2024-01-26 05:13:07,Cancelled,c170d01b-fbe6-4d8e-bc3d-95f8afaa8bc1,Tiffany Edwards,Team 2
+a457f5af-0e3f-4f59-ba78-583e4881203d,6ba8de73-c4a1-4882-927a-06cc3434be3b,Pediatrics,2023-05-20 10:33:00,Scheduled,b1b5b537-101f-4862-b28d-bf3bda83da63,Michelle Guerra,Team 3
+83af80c7-837a-44ac-9194-3470fc18fd84,a3896383-a2d0-4e12-85f6-f51f3a0d45f6,Geriatrics,2024-04-21 15:36:46,Scheduled,ed9227c3-c457-4dad-905a-c6dbb2064cd7,James Reid,Team 2
+89675821-0358-4cdb-8c75-f1792e3c5159,086ed19d-d7e4-43d3-bba3-792598be3543,Psychiatry,2024-03-09 05:13:43,Scheduled,715fcc5a-a7c7-45f5-a80e-b376b1c8cddf,Amanda Barry,Team 4
+c13bdd38-af4c-4de7-8ad5-0bc13b4cb227,058642a0-e59f-41f7-9c8d-4e0a9e5b9b3d,Psychiatry,2024-03-08 15:23:41,Attended,5601b481-21e9-4be0-8f51-5060aeb14c8f,Heidi Scott,Team 5
+3fc3ccd8-9dbb-4c19-97f3-d07ccb9a3c5a,15ea2941-37d5-47b9-9488-d67ddb96d761,Primary Care,2024-01-10 17:36:00,Attended,f447c167-e9af-4230-a4e2-150e63451f7d,Jennifer Lin,Team 3
+00648ea5-6deb-4330-a094-6cda16f6b63e,a2ff3c73-d149-4720-aefa-cd1bede78c2b,Oncology,2024-03-06 08:54:10,Scheduled,9849a285-b5d9-4adf-94a8-7c86ec870f86,Cole Griffith,Team 1
+8e7f0c89-b33f-43b6-b2c5-3f312370e3a6,9fb54f01-2dbc-488f-a736-0c223f2f3e6b,Neurology,2024-04-05 23:08:32,Attended,221cd7f9-487e-452a-93fe-51e89e5ebfa0,George Brown,Team 3
+5e76dfb5-1601-4d94-a62a-03bcdc5b6deb,71076baa-14d2-4242-adb7-525c924e2104,Primary Care,2023-06-04 15:24:50,Cancelled,9f84bc2e-df8e-4553-a9b7-198807cb9d76,Elaine Morrison,Team 3
+1b3c791a-7abb-4d98-9d33-45f063b2e7a0,c74b6719-8692-4e56-bf73-43ae13ed2253,Primary Care,2023-05-21 21:52:41,Cancelled,0bd1f986-aef6-4f5c-9fef-efdab6fc26d4,Colleen Taylor,Team 4
+31141ed2-aa03-4428-961b-39c1d0272a73,a8a66231-e145-49e2-bc2d-941e55f6299f,Cardiology,2023-11-15 00:33:22,Attended,171bf666-bd33-4955-a145-ba2e04bf4c66,Joseph Mendoza,Team 3
+fd276fee-4706-4d84-866d-e1158e8238c8,4427c2bb-11af-4eda-a1ed-e736afe8ca1a,Geriatrics,2023-05-31 16:47:17,Scheduled,73ec6d9c-3848-4c79-a08b-8dceab81448c,Denise Erickson,Team 3
+d412c48d-f45f-4ec6-a700-5dff10e30bfd,bbd4e79e-243b-4916-98db-c24d30ae56bc,Oncology,2023-08-08 06:50:36,Attended,c170d01b-fbe6-4d8e-bc3d-95f8afaa8bc1,Tiffany Edwards,Team 2
+02da46af-e335-4e9c-81b7-5e436ada2f7b,31986530-4b12-4bff-8887-181fe07248a0,Psychiatry,2024-02-09 03:50:21,Cancelled,56fa073f-c4ef-471d-a3b9-211367da8f83,Jennifer Golden,Team 4
+ea1bd55d-0df6-4b4e-bf1f-81884e0492ef,bcdf9011-60a7-4847-a74f-683de2c16fae,Cardiology,2024-04-16 20:13:59,Scheduled,92822b2f-7913-417e-8272-7c3d49636bca,Patricia Ferguson,Team 5
+4ed41538-4a99-43fa-a250-f5c14debe4b5,f6146ceb-8308-4485-b61f-977bdc7d0f19,Geriatrics,2023-12-12 05:52:40,Cancelled,a128a9f6-3399-47dd-ad91-db1a02196e0f,Jennifer Welch,Team 3
+1fc7ceaa-1014-437e-8927-b27599195ddd,2b52c514-8cf8-4dd8-8886-244c7818907f,Cardiology,2023-11-01 10:09:00,Attended,7f4a22e7-21ca-4748-bc1c-d982fa114594,Sarah Carter,Team 1
+2bcf466a-38e7-4a5d-9eb2-f990bfc195ee,222604b1-ecff-46b8-a0f7-0fc3e93067f5,Oncology,2023-07-16 19:31:44,Attended,b6de50fc-c575-4696-bb93-2b1d440ef4f0,Andrew Travis,Team 3
+5f97e9f0-e11b-491f-9720-0b3659f25527,d6f79dea-f2e6-41cb-9405-bdf2e3d4d31c,Geriatrics,2023-07-23 14:22:55,Cancelled,58b3a862-857c-42b3-8c80-309ecf2b6e51,Justin Hamilton,Team 5
+f2474776-4e3e-46de-afa9-ce3b51a05244,a8a66231-e145-49e2-bc2d-941e55f6299f,Oncology,2023-10-21 00:46:24,Scheduled,4b7f855a-7576-49b4-80ed-2763609675fe,Kayla Rasmussen,Team 5
+e55fc79a-314b-4937-b4b0-6a3969640577,a3896383-a2d0-4e12-85f6-f51f3a0d45f6,Psychiatry,2024-05-02 16:10:17,Cancelled,56fa073f-c4ef-471d-a3b9-211367da8f83,Jennifer Golden,Team 2
+6b1f1c3e-1562-4b73-abe4-c1a8f62f49c1,2b1c2e60-7f43-4ed8-85ea-0cc27ec4e575,Neurology,2023-12-05 09:27:21,Attended,ddc49078-db33-42fe-86f4-f21a3d3f7bed,Nathan Henry,Team 3
+29b16f86-c21a-469a-af99-202af7a31389,edcb30ad-ac03-4a75-be8f-737384a8d9df,Primary Care,2023-08-24 09:45:18,Cancelled,40f15512-dfc4-4572-ace9-e675253700be,Julie Kennedy,Team 1
+06fb75b6-8941-4d46-ae55-54ece3faec57,9fb54f01-2dbc-488f-a736-0c223f2f3e6b,Geriatrics,2023-12-31 08:43:56,Cancelled,e52daaec-3fad-4db1-a521-42d0a025c239,Toni Cochran,Team 2
+d726b0c3-7578-4e67-ab16-ff6ac1869b75,4ad8d68b-a3cc-43c3-b66f-09258ddd35a9,Geriatrics,2023-09-05 18:06:13,Cancelled,3b08b418-1e9f-47a2-80f8-fcfb5900f3e3,Joshua Galvan,Team 3
+b67aa717-d9bc-4408-a545-ba7af859d4d8,78bb26fc-92eb-4a96-8057-1165b74ca3af,Oncology,2023-05-30 10:40:56,Scheduled,83fbeb90-d245-468a-8f8d-715a631a673d,Emily Jackson,Team 1
+3d7a7bce-4c29-4e17-bc0c-84e486e289aa,d3c1f321-665d-4c03-baf1-9c6e45b385d0,Neurology,2023-12-07 23:09:18,Attended,82d52ffd-3485-4d11-965f-a7e70891c06d,Nathaniel Barnes,Team 3
+d9f4ae09-8287-4b51-8731-73fa921cfbac,233ae75e-7594-44c9-ae3a-a8777128ebfd,Neurology,2024-04-05 03:09:56,Attended,b1b5b537-101f-4862-b28d-bf3bda83da63,Michelle Guerra,Team 1
+9ca5cadf-eb9f-4798-a50a-bbe6738c5dda,2ddf20c5-0ed7-4479-bbf1-45f15ddd31d7,Geriatrics,2024-01-01 14:18:36,Attended,d4c743dc-c74c-4b00-956c-ff0966b5a18e,William Erickson,Team 2
+ac237475-bab3-4176-b293-a0e56706d4aa,d44652b7-1156-46af-83e9-1d7263876ec9,Psychiatry,2023-08-24 22:53:26,Cancelled,40f15512-dfc4-4572-ace9-e675253700be,Julie Kennedy,Team 1
+9f6a0494-7101-4601-8ccc-2f1cafe3469c,d1229c7d-946b-4667-bc4b-7c2b9bb4b414,Cardiology,2024-02-08 08:18:29,Scheduled,d2d6bdf8-79ec-4523-ab46-49c0f725bfc6,Victoria Martin,Team 3
+69ecd80e-e45c-4531-868b-43369db9a2b9,4ad8d68b-a3cc-43c3-b66f-09258ddd35a9,Cardiology,2024-02-23 03:52:06,Scheduled,554d7aa6-d87c-4332-9863-2688b1e2775d,Judith Green,Team 1
+90ed27d2-ce19-4516-bb53-7870a9595140,d3c1f321-665d-4c03-baf1-9c6e45b385d0,Primary Care,2024-01-02 10:25:52,Attended,5bb281a8-6b29-4594-841c-b936acff1d66,Shannon Lee,Team 4
+029757f3-082f-48f0-8047-bdba01a119ab,9829d816-dd26-47d0-910f-26a6fd680b9f,Geriatrics,2023-10-06 16:31:47,Scheduled,359f2a97-26c8-4fef-b322-8988548912a9,Nathan Reed,Team 1
+d2128aeb-a786-45c7-8ea8-1c0ad4314fa1,7b5f2b71-3a34-407c-8674-e521050cf33d,Primary Care,2023-12-29 01:44:46,Attended,baf81cbb-704c-42ff-9b71-b2596aaf0168,Gina Ayers,Team 2
+904e82db-9d28-4f5a-9170-4e1ba0925ee8,005ba3fe-2b7e-4038-9b27-091516e06a7d,Psychiatry,2023-12-02 16:00:37,Scheduled,5601b481-21e9-4be0-8f51-5060aeb14c8f,Heidi Scott,Team 4
+61ac351e-a9e5-48d3-ab33-768081dd3ac0,dd74cc4e-e5dd-4a62-8e93-9cc24f5a5410,Neurology,2023-10-01 14:12:37,Attended,9849a285-b5d9-4adf-94a8-7c86ec870f86,Cole Griffith,Team 5
+6a655f57-96dd-4a4c-8aba-f7ee1f9b6d82,a8a66231-e145-49e2-bc2d-941e55f6299f,Psychiatry,2023-10-01 02:01:15,Attended,75f15229-e369-44ed-8df3-9de79dbb22f1,Bryan Burke,Team 4
+53ac5ba3-4562-4781-a394-5b42860d09dd,dbb6517b-0204-4312-b665-7e3c0676b2fc,Cardiology,2024-01-22 11:03:56,Cancelled,7d9c0030-61de-40bf-ae56-c8482d057d39,Maria Collins,Team 4
+7e06929b-96a7-4c23-91a7-9528c0bd27b5,4427c2bb-11af-4eda-a1ed-e736afe8ca1a,Neurology,2023-06-20 18:40:51,Scheduled,e52daaec-3fad-4db1-a521-42d0a025c239,Toni Cochran,Team 4
+d7980970-a055-4a9e-9a82-3c12dbee2e66,488027c7-d90d-49c4-a66b-fe77cf538c79,Pediatrics,2024-03-15 14:40:03,Attended,ee03e05b-6523-4b45-a7bc-e6a1eb29f0e5,Johnny Ibarra,Team 5
