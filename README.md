@@ -2,3 +2,7 @@ There will be several branches in this repository. Mainly, each feature branch w
 
 ## ERD for Hackathon
 <img width="1662" alt="Screenshot 2024-05-14 at 11 31 21 PM" src="https://github.com/SFDC-Assets/cvs-data-cloud-hackathon/assets/66319770/0ee7ba74-138b-4e35-a1d6-9ab6d169d927">
+
+## ERD for Provider relationship
+<img width="754" alt="Screenshot 2024-05-14 at 11 34 15 PM" src="https://github.com/SFDC-Assets/cvs-data-cloud-hackathon/assets/66319770/abcce473-593a-4f2d-bb68-65a709b42057">
+
