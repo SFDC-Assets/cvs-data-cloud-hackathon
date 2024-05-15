@@ -1,0 +1,1 @@
+There will be several branches in this repository. Mainly, each feature branch will be dedicated to a specific functionality. This branch datasets consists of all datasets that will be used for CVS hackathon
