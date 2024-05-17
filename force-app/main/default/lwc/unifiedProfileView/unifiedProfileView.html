@@ -1,0 +1,68 @@
+<template>
+    <div class="slds-m-top_x-small">
+    <!-- create a lightning card based on the data in the controller -->
+        <lightning-card title={title} icon-name={iconName}>
+            <!-- place a lightning button in the middle of the card -->
+            <div class="slds-m-around_medium">
+                <button
+                    onclick={getUnifiedProfileLinkData} 
+                    class="custom-button"
+                >
+                    Get Unified Profile Link Data
+                </button>
+            </div>
+            <!-- add a busy spinner in blue -->
+            <template if:true={isLoading}>
+                <div class="slds-m-around_medium">
+                    <lightning-spinner
+                        alternative-text="Loading"
+                        size="medium"
+                    ></lightning-spinner>
+                </div>
+            </template>
+            <template if:true={records}>
+                <div class="slds-box slds-p-around_none slds-m-top_x-small slds-m-bottom_medium slds-m-horizontal_none">
+                    <lightning-layout>
+                        <lightning-layout-item padding="around-small">
+                            <div class="custom-box slds-box slds-p-around_medium slds-text-align_center">
+                                <lightning-card  title="Unified Record Id" icon-name="custom:custom10">
+                                    <p class="slds-p-horizontal_small">{unifiedRecordId}</p>
+                                </lightning-card>
+                            </div>
+                        </lightning-layout-item>
+                        <lightning-layout-item padding="around-small">
+                            <div class="custom-box slds-box slds-p-around_medium slds-text-align_center">
+                                <lightning-card  title="Data Source Object Id" icon-name="custom:custom20">
+                                    <p class="slds-p-horizontal_small">{dataSourceObjectId}</p>
+                                </lightning-card>
+                            </div>
+                        </lightning-layout-item>
+                    </lightning-layout>
+                    <lightning-layout>
+                        <lightning-layout-item padding="around-small">
+                            <div class="custom-box slds-box slds-p-around_medium slds-text-align_center">
+                                <lightning-card  title="Data Source Id" icon-name="custom:custom30">
+                                    <p class="slds-p-horizontal_small">{dataSourceId}</p>
+                                </lightning-card>
+                            </div>
+                        </lightning-layout-item>
+                        <lightning-layout-item padding="around-small">
+                            <div class="custom-box slds-box slds-p-around_medium slds-text-align_center">
+                                <lightning-card  title="Source Record Id" icon-name="custom:custom40">
+                                    <p class="slds-p-horizontal_small">{sourceRecordId}</p>
+                                </lightning-card>
+                            </div>
+                        </lightning-layout-item>                                                                        
+                    </lightning-layout>
+                </div>
+            </template>
+
+            <div class="container">
+                <p> Report Date : {today} </p>
+            </div>            
+        </lightning-card>        
+
+    </div>
+
+
+</template>
